@@ -1,6 +1,6 @@
 ## Hi there, this is Melak
 
-Here, click on this link to see some [cool stuff](https://www.youtube.com/watch?v=dQw4w9WgXcQ) 
+Hi Mr. Oswald, click this link to see some [cool stuff](https://www.youtube.com/watch?v=dQw4w9WgXcQ) 
 
 
 ### Using some text features
