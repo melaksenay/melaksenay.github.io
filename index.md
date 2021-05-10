@@ -8,7 +8,7 @@ Here, click on this link to see some [cool stuff](https://www.youtube.com/watch?
 The **quick** brown _fox_ jumped over the `lazy` dog. Here's a picture of a lazy dog: ![here](https://hips.hearstapps.com/ghk.h-cdn.co/assets/17/44/1509558462-sleeping-bulldog.jpg)
 
 ```markdown
-Filler text! I love filler text. Just wanted to see how markdown mode looked like.
+Filler text! I love filler text.
 ```
 Hey future Melak, if you want to see more markdown syntax click [here](https://guides.github.com/features/mastering-markdown/).
 
