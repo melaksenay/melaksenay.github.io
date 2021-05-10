@@ -3,30 +3,18 @@
 Here, click on this link to see some [cool stuff] (https://www.youtube.com/watch?v=dQw4w9WgXcQ) 
 
 
-### Markdown
+### Using some text features
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The **quick** brown _fox_ jumped over the `lazy` dog. Here's a picture of a lazy dog: ![here](https://hips.hearstapps.com/ghk.h-cdn.co/assets/17/44/1509558462-sleeping-bulldog.jpg)
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Filler text! I love filler text. Just wanted to see how markdown mode looked like.
 ```
+Hey future Melak, if you want to see more markdown syntax click [here](https://guides.github.com/features/mastering-markdown/).
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+# Other stuff
 
+**Below me is GitHub's pre written text. Important info.**
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/melaksenay/melaksenay.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
