@@ -27,7 +27,7 @@ Hey future Melak, if you want to see more markdown syntax click [here](https://g
 
 ## My favorite markdown feature:
 - [x] complete Junior Year
-- [] complete high school
+- [ ] complete high school
 
 # Other stuff
 
