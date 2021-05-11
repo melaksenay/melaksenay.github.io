@@ -26,8 +26,8 @@ Hey future Melak, if you want to see more markdown syntax click [here](https://g
 `inline code is also a thing`
 
 ## My favorite markdown feature:
--[x] complete Junior Year
--[] complete high school
+- [x] complete Junior Year
+- [] complete high school
 
 # Other stuff
 
