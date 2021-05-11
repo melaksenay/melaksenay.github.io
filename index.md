@@ -1,4 +1,4 @@
-## Hi there, this is Melak
+## Hi there, this is Melak Pt.2. Today I'm practicing more markdown (May 11th).
 
 Hi Mr. Oswald, click this link to see some [cool stuff](https://www.youtube.com/watch?v=dQw4w9WgXcQ) 
 
@@ -11,6 +11,23 @@ The **quick** brown _fox_ jumped over the `lazy` dog. Here's a picture of a lazy
 Filler text! I love filler text.
 ```
 Hey future Melak, if you want to see more markdown syntax click [here](https://guides.github.com/features/mastering-markdown/).
+
+# New markdown practice
+* Stars make bullet points!
+* This is **very** important.
+1. Numbered
+2. Lists
+3. Are 
+4. Intuitive
+
+> We can also do blockquotes
+> That's pretty cool
+
+`inline code is also a thing`
+
+## My favorite markdown feature:
+-[x] complete Junior Year
+-[] complete high school
 
 # Other stuff
 
