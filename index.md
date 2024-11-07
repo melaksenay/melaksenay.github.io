@@ -1,16 +1,11 @@
-## Hi there, this is Melak Pt.2. Today I'm practicing more markdown (May 11th).
+## Hi, I'm Melak.
 
-Hi Mr. Oswald, click this link to see some [cool stuff](https://www.youtube.com/watch?v=dQw4w9WgXcQ) 
+I am a 4th year Computer Science undergrad at [Washington University in St. Louis](https://cse.washu.edu/index.html).
+
+I am involved in research with Dr. James Duncan at the Washington University School of Medicine.
+# Papers 
 
 
-### Using some text features
-
-The **quick** brown _fox_ jumped over the `lazy` dog. Here's a picture of a lazy dog: ![here](https://hips.hearstapps.com/ghk.h-cdn.co/assets/17/44/1509558462-sleeping-bulldog.jpg)
-
-```markdown
-Filler text! I love filler text.
-```
-Hey future Melak, if you want to see more markdown syntax click [here](https://guides.github.com/features/mastering-markdown/).
 
 # New markdown practice
 * Stars make bullet points!
@@ -35,6 +30,8 @@ Hey future Melak, if you want to see more markdown syntax click [here](https://g
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/melaksenay/melaksenay.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+Here's a picture of a lazy dog to make your day better: ![here](https://hips.hearstapps.com/ghk.h-cdn.co/assets/17/44/1509558462-sleeping-bulldog.jpg)
 
 ### Support or Contact
 
