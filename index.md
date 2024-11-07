@@ -1,38 +1,19 @@
-## Hi, I'm Melak.
+# Hi, I'm Melak.
 
 I am a 4th year Computer Science undergrad at [Washington University in St. Louis](https://cse.washu.edu/index.html).
 
 I am involved in research with Dr. James Duncan at the Washington University School of Medicine.
-# Papers 
+## Papers 
 
+1) Data Capture in Fluoroscopically-Guided Interventions: A Pathway to  Workflow and Procedure Optimization
+    * Authors: M. Allan Thomas, Melak Senay, James R. Duncan
+    * [Link](https://spie.org/medical-imaging/presentation/Data-capture-in-fluoroscopically-guided-interventions--a-pathway-to/13408-47#_=_)
+    * **accepted SPIE 2025**
 
+3) Organ and Effective Doses During Uterine Artery Embolization: Event by Event Dosimetry Calculations
+     * Authors: Sagine Berry-Tony, Lasya Daggamuti, Melak Senay, Allan Thomas, James Duncan
+     * **under review**
 
-# New markdown practice
-* Stars make bullet points!
-* This is **very** important.
-1. Numbered
-2. Lists
-3. Are 
-4. Intuitive
-
-> We can also do blockquotes
-> That's pretty cool
-
-`inline code is also a thing`
-
-## My favorite markdown feature:
-- [x] complete Junior Year
-- [ ] complete high school
-
-# Other stuff
-
-**Below me is GitHub's pre written text. Important info.**
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/melaksenay/melaksenay.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-Here's a picture of a lazy dog to make your day better: ![here](https://hips.hearstapps.com/ghk.h-cdn.co/assets/17/44/1509558462-sleeping-bulldog.jpg)
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+5) Using Machine Learning and Radiation Dose Structured Reports to Identify the Embolization Events During Fluoroscopic Procedures
+     * Authors: Melak Senay, Dennis Trujillo, Allan Thomas, James Duncan
+     * **under review**
