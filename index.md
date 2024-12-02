@@ -4,7 +4,7 @@ I am a 4th-year Computer Science undergrad at [Washington University in St. Loui
 
 I am involved in research with Dr. James Duncan at the Washington University School of Medicine.
 
-## Papers 
+## Abstracts 
 
 1. **Data Capture in Fluoroscopically-Guided Interventions: A Pathway to Workflow and Procedure Optimization**
    - Authors: M. Allan Thomas, Melak Senay, James R. Duncan
@@ -17,4 +17,4 @@ I am involved in research with Dr. James Duncan at the Washington University Sch
 
 3. **Using Machine Learning and Radiation Dose Structured Reports to Identify the Embolization Events During Fluoroscopic Procedures**
    - Authors: Melak Senay, Dennis Trujillo, Allan Thomas, James Duncan
-   - *Under review*
+   - *Accepted for SIR 2025 (Oral Presentation)*
